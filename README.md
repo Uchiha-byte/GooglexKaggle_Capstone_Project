@@ -1,4 +1,4 @@
-# **Multi-Agent AI Competition Assistant — Project Description**
+# **BlitzAI - Multi-Agent AI Competition Assistant **
 
 We built a **Multi-Agent AI Competition Assistant** designed to help Kaggle participants work faster, smarter, and more efficiently during machine learning competitions. Traditional Kaggle workflows involve several repetitive and time-consuming tasks such as data understanding, model improvement, debugging pipeline issues, planning experiments, and finding insights from discussions. Our system automates a large part of this process using a coordinated set of intelligent agents powered by Google Gemini.
 
