@@ -1,5 +1,5 @@
 
-#**BlitzAI – Multi-Agent AI Competition Assistant**
+# **BlitzAI – Multi-Agent AI Competition Assistant**
 
 ### *AI Competition Assistant Agent powered by Multi-Agent Architecture & Gemini*
 
