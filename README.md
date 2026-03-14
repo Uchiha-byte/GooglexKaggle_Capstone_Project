@@ -275,10 +275,6 @@ test_agent("Generate a 7-day competition strategy for tabular data")
 * [ ] Include leaderboard trend analyzer
 
 
----
 
-# ⭐ **If you like this project, don’t forget to star the repository!**
-
----
 
 
