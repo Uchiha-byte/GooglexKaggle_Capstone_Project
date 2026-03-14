@@ -122,7 +122,6 @@ suggest_features()
 analyze_competition_insights()
 ```
 
-Each tool acts as a “skill plugin” for the assistant.
 
 ---
 
